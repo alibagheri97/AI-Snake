@@ -10,7 +10,7 @@ Snake game is a Python program that will run on Windows.
 # How to use it
 just set two initial parameters
 - set speed game between .01 seconds and .5 secondes that you can set 0 - 100 percent
-- set Number of width pixels that you can set between 10 - 40 or more, but it won't be good larger than 40
+- set Number of width pixels that you can set between 10 - 40 or more, but it won't give you a good result larger or less than this range
 - and when you do, AI going to train until 500 Iteration, so please be patient
 - after that when window create, you should use (up, down, left, right) keys on keyboard then snake will move
 
