@@ -1,4 +1,4 @@
-# How To setup and run the project
+# How to setup and run the project
 Snake game is a Python program that will run on Windows.
 
 # Libraries that you need to install
